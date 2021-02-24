@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portofolio Fahmi Farhan Husin</string>
+    <string name="list_img">IMAGE</string>
+    <string name="list_title">TITLE</string>
+    <string name="list_release">RELEASE_DATE</string>
+    <string name="deskripsi">DESCRIPTION</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movies">Movies</string>
+    <string name="tv">Tv Show</string>
+    <string name="app_title">Katalog Film</string>
+    <string name="favorite">Favorite</string>
+    <string name="about_me">About Me</string>
+</resources>
